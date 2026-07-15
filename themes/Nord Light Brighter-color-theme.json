@@ -145,7 +145,7 @@
         "titleBar.border": "#e1e4e8",
         "titleBar.inactiveBackground": "#f6f8fa",
         "titleBar.inactiveForeground": "#6a737d",
-        "tree.indentGuidesStroke": "#e1e4e8",
+        "tree.indentGuidesStroke": "#e1e4e8"
     },
     "tokenColors": [
         {
@@ -787,7 +787,7 @@
                 "storage",
                 "constant.language",
                 "support.class.builtin",
-                "entity.name.tag.html",
+                "entity.name.tag.html"
             ],
             "settings": {
                 "fontStyle": "bold"

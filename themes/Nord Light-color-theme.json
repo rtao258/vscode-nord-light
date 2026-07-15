@@ -142,8 +142,8 @@
     "textBlockQuote.background": "#fafbfc",
     "textBlockQuote.border": "#e1e4e8",
     "textCodeBlock.background": "#f6f8fa",
-		"textLink.activeForeground": "#032F62",
-		"textLink.foreground": "#032F62",
+    "textLink.activeForeground": "#032F62",
+    "textLink.foreground": "#032F62",
     "textPreformat.foreground": "#586069",
     "textSeparator.foreground": "#d1d5da",
     "titleBar.activeBackground": "#e5e9f0",
@@ -153,7 +153,7 @@
     "titleBar.inactiveForeground": "#6a737d",
     "tree.indentGuidesStroke": "#e1e4e8",
     "welcomePage.buttonBackground": "#f6f8fa",
-    "welcomePage.buttonHoverBackground": "#e1e4e8",
+    "welcomePage.buttonHoverBackground": "#e1e4e8"
   },
   "tokenColors": [
     {
